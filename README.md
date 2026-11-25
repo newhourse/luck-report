@@ -101,11 +101,3 @@ V2 在保留中国式复杂报表能力的基础上，主要新增：
         <td width="50%" align="center"><img src="https://www.tinyluck.cn:8088/assets/image/luck-report-v1/git/print-01.png" width="100%" /></td>
     </tr>
 </table>
-
-## ❤️ 赞助支持
-
-如果觉得本项目对你有帮助，欢迎扫码赞助，你的支持是项目持续维护的动力～
-
-<p>
-  <img src="https://www.tinyluck.cn:8088/assets/image/luck-report-v1/git/support-pay.jpg" alt="赞助二维码" width="200" />
-</p>
